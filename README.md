@@ -1,3 +1,11 @@
+**Do note that antivirus had to be turned off as it will break this update.**
+steps:
+1. Press Windows button and search for "Windows Security"
+2. Select "Virus & Threat Protection"
+3. Under "Virus & Threat Protection Settings", select "Manage Settings"
+4. Turn off all of the options
+5. You may need to restart your computer to process the patch
+
 # MichaelSoft-WSL2-Fix-Update
 WSL2 fix for Windows Docker.
 
